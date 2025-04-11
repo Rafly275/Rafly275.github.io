@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Selamat Ulang Tahun ikaaa</title>
+</head>
+<body>
+  
+  <center>
+    
+    <img width ="350px" src="ikav (1).jpg" alt="high">
+    
+    
+    <h1>Selamat Ulang Tahun ikaaa 13 april 2025</h1>
+    
+    <h2>selamat ulang tahun ikaaa!!! semoga Allah selalu berikan kesehatan, umur yang berkah, dimudahkan semua urusannya, diberikan kekuatan dan hati yang lapang untuk menerima semua takdirnya yaa, meskipun ga semua berjalan sesuai sama apa yang kamu mau, tapi semoga kamu bisa berdamai dan memaafkan semua yang pernah menyakiti kamu yaa, tel. the one that should be pinned, kamu berharga, kamu berhak untuk bahagia, hidup kamu harus terus berjalan, mimpi-mimpi kamu harus bisa kamu wujudkan! doa-doa baikku menyertai kamuu di tahun inii. semoga semesta turut mengaminkan dan bisa mendatangkan hal-hal baik buat kamu, jangan sedih lama-lama yaa! keep your chin high n be proud once more, happy birthday🌷🌷🌷</h2>
+  </center>
+  
+  
+  
+  
+  
+  
+</body>
+</html>
